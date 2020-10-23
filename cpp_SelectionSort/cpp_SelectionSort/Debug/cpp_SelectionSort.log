@@ -1,0 +1,3 @@
+﻿  two-dimensionalArray.cpp
+C:\Users\DyingForTea\source\repos\cpp_SelectionSort\cpp_SelectionSort\two-dimensionalArray.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+  cpp_SelectionSort.vcxproj -> C:\Users\DyingForTea\source\repos\cpp_SelectionSort\Debug\cpp_SelectionSort.exe
